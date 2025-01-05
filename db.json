@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "villedepart": "Casablanca",
+      "villearrivee": "Paris",
+      "prix": 1500,
+      "date": "15-01-2025",
+      "image": "vol.png",
+      "services": []
+    },
+    {
+      "id": 2,
+      "villedepart": "Rabat",
+      "villearrivee": "Madrid",
+      "prix": 1300,
+      "date": "13-01-2025",
+      "image": "vol.png",
+      "services": []
+    },
+    {
+      "id": 3,
+      "villedepart": "Fes",
+      "villearrivee": "Moskow",
+      "prix": 5000,
+      "date": "05-02-2025",
+      "image": "vol.png",
+      "services": []
+    },
+    {
+      "id": 4,
+      "villedepart": "Tanger",
+      "villearrivee": "London",
+      "prix": 1800,
+      "date": "25-03-2025",
+      "image": "vol.png",
+      "services": []
+    },
+    {
+      "id": 5,
+      "villedepart": "Agadir",
+      "villearrivee": "Berlin",
+      "prix": 2000,
+      "date": "22-01-2025",
+      "image": "vol.png",
+      "services": []
+    },
+    {
+      "id": 6,
+      "villedepart": "Oujda",
+      "villearrivee": "DOHA",
+      "prix": 2000,
+      "date": "18-01-2025",
+      "image": "vol.png",
+      "services": []
+    }
+  ]
+  
