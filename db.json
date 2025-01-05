@@ -43,15 +43,6 @@
       "date": "22-01-2025",
       "image": "vol.png",
       "services": []
-    },
-    {
-      "id": 6,
-      "villedepart": "Oujda",
-      "villearrivee": "DOHA",
-      "prix": 2000,
-      "date": "18-01-2025",
-      "image": "vol.png",
-      "services": []
     }
   ]
   
